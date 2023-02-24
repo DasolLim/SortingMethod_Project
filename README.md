@@ -1,26 +1,31 @@
 # SortingMethods
 Learned and implemented sorting algorthims such as collection, selection, bubble, insertion, merge, quick, and bucket sort.
 
-**selection sort: **
+Selection sort:
 - iterative comparison
-- loop until the condition is satisfied 
-**bubble sort: **
+- loop until the condition is satisfied
+
+Bubble sort:
 - iterative comparison, compariong data-set from one end to other
 - compares adjacent pairs of elements
 - loop until one traversal step is finished and repeats array length times
-insertion sort:
+
+Insertion sort:
 - iterastive sorting method, repeats until no input elements remain
 - removes one element from the array list and finds the best location to insert it
-**merge sort:**
+
+Merge sort:
 - divide and conquer
 - divides array into two arrays and compare
 - when array list is sorted, merge sorted arrays together
 - common way is using resurive divide and conquer method
-**quick sort:**
+
+Quick sort:
 - uses pointers, numbers used to compare and sort
 - left pointer used to scan rightward of arraylist
 - right pointer used to scan leftward of arraylist
-**bucket sort:**
+
+Bucket sort:
 - method is not generic because it is restricted for specific data
 - avoids comparison by creating and distributing elements into buckets
 - treats elements as if they were strings of the same length
