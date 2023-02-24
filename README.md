@@ -33,7 +33,9 @@ Bucket sort:
 - placed into buckets based on the matching key
 
 Used generic and comparable for sorting methods.
+
 Used System.arraycopy() method to copy the content of initial array with pre-set size.
+
 Compared the execution time of an Integer type dataset.
 
 ![image](https://user-images.githubusercontent.com/92288227/221113074-8e04174c-cf80-456f-b219-be06298b4fe0.png)
