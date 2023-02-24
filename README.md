@@ -37,6 +37,6 @@ Used System.arraycopy() method to copy the content of initial array with pre-set
 Compared the execution time of an Integer type dataset.
 
 ![image](https://user-images.githubusercontent.com/92288227/221113074-8e04174c-cf80-456f-b219-be06298b4fe0.png)
-![image](https://user-images.githubusercontent.com/92288227/221113154-248de3b9-9d20-4d23-9e5a-568e9c04d3ff.png)
-![image](https://user-images.githubusercontent.com/92288227/221113200-1b6c7e46-5533-41b8-9600-34c3a881f862.png)
+![image](https://user-images.githubusercontent.com/92288227/221113688-dd57721f-0846-4c62-8d76-cd0c230493e4.png)
+![image](https://user-images.githubusercontent.com/92288227/221113728-99c663bf-cf4c-4151-84ba-0f4da0102617.png)
 
